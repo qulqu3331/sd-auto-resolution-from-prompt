@@ -49,7 +49,7 @@ lying_or_standing: 1girl, {lying, res_640_960|standing, res_960_640}
 ```
 stable-diffusion-webui-forge/
 └── extensions/
-    └── zzz-auto-resolution-from-prompt/
+    └── zzz-sd-auto-resolution-from-prompt/
         └── scripts/
             └── auto_resolution.py
 ```
